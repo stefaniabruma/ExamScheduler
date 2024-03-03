@@ -1,0 +1,4 @@
+04.02,11:00,Algebra,normal
+26.01,11:00,ASC,normal
+26.01,15:00,ASC,restanta
+08.02,16:00,Analiza matematica,restanta

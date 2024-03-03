@@ -1,0 +1,9 @@
+25.01,11:10,FP,normal
+26.01,11:00,ASC,normal
+02.02,12:00,FP,restanta
+26.01,09:00,Logica,restanta
+08.02,16:00,Analiza matematica,restanta
+27.01,14:10,Logica,normal
+26.01,15:00,ASC,restanta
+04.02,11:00,Algebra,normal
+22.02,12:00,BD,restanta

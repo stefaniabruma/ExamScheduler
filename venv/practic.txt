@@ -1,0 +1,3 @@
+26.01,09:00,Logica,restanta
+27.01,14:10,Logica,normal
+08.02,16:00,Analiza matematica,restanta

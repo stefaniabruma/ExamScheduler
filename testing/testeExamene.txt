@@ -1,0 +1,4 @@
+25.01,11:10,FP,normal
+26.01,11:00,ASC,normal
+02.02,12:00,FP,restanta
+26.01,09:00,Logica,restanta
